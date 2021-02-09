@@ -1,6 +1,6 @@
-# substrate-up
+# tetcore-up
 
-Scripts for working with new Substrate projects. Based on the v1.0 branch of Substrate.
+Scripts for working with new Tetcore projects. Based on the v1.0 branch of Substrate.
 
 You can update the scripts installed on your machine with:
 
